@@ -20,4 +20,4 @@ Total Call by Sentiment Column Chart: Depicts the distribution of incoming calls
 ## Audience:
 
 This dashboard is designed for call Centre managers, customer service representatives, and business analysts seeking to understand and optimize call Centre performance. It provides a user-friendly interface for exploring call data and extracting actionable insights to enhance operational efficiency and customer satisfaction.
-![image](https://github.com/kunlekuyoro/Call-Centre-Analytics-Dashboard/assets/126311485/ffaccead-a4d9-4012-a3bf-721ec809b1ca)
+
