@@ -7,13 +7,21 @@ This Power BI dashboard offers a comprehensive analysis of a call Centre’s ope
 ## Key Features:
 
 Total Incoming Calls: Provides an overview of the total number of incoming calls received.
+
 Call Duration: Displays the average duration of calls, offering insights into call handling times.
+
 Satisfaction Score: Represents customer satisfaction scores, enabling quick assessment of overall service performance.
+
 State and Channel Slicer: Enables dynamic filtering of data based on state and channel.
+
 Sentiment and Reason Slicer: Enables dynamic filtering of data based on sentiment and reason.
+
 Total Call by State Pie Chart: Depicts the distribution of incoming calls across different states.
+
 Total Call by Week Number and Sentiment Stacked Column Chart: Depicts the distribution of incoming calls for a week across different sentiment polarities.
+
 Total Call by Reason Bar Chart: Depicts the distribution of reasons for incoming calls.
+
 Total Call by Sentiment Column Chart: Depicts the distribution of incoming calls across different sentiment polarities.
 
 
